@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a MakeCode Arcade extension called Arcade-Screen-Effects
-- 🌱 I’m currently learning more about Makecode Arcade blocks.
-- 📫 How to reach me: Kiwiphoenix364 on the MakeCode Arcade Forum
-- 😄 Pronouns: He
-- ⚡ Fun fact: I LOVE MakeCode Arcade!
+- I'm a dude on the internet that likes MakeCode Arcade and coding in general.
+- I like to make projects that are unique or interesting to me, usually game mechanics that I want to make or to see how I would develop a game mechanic from another game.
+- I've done MakeCode Arcade blocks, Typescript, Javascript, a little bit of HTML/CSS, Arduino IDE (C++), and recently Python.
+- I enjoy gaming on my (slow) pc like Minecraft, Poly Bridge, Bloons, as well as some games on consoles.
+- I also like 3d printing. I recently got a N4P (runs Klipper) and it produces some great prints!
+- Currently making a 3d renderer, some game jam games, and (starting) a game based off of the Geometry Dash song "Electroman Adventures."
